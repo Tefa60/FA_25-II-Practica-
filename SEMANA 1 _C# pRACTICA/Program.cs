@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,6 +27,15 @@ namespace SEMANA_1_PRACTICA
         }
         static void Ejer2()
         {
+            Console.Write("Ingrese numero x:");
+            int x= int.Parse(Console.ReadLine());
+            Console.Write("Ingrese numero y:");
+            int y=Convert.ToInt32(Console.ReadLine());
+            double resu = x / y;
+            Console.WriteLine("Suma:"+ (x + y));
+            Console.WriteLine("Resta:" + (x - y));
+            Console.WriteLine("Multiplicacion:" + (x * y));
+            Console.WriteLine("Division:" + resu);
 
         }
         static void Ejer3()
