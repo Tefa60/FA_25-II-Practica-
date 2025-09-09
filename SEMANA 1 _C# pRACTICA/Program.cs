@@ -31,7 +31,7 @@ namespace SEMANA_1_PRACTICA
             int x= int.Parse(Console.ReadLine());
             Console.Write("Ingrese numero y:");
             int y=Convert.ToInt32(Console.ReadLine());
-            double resu = x / y;
+            double resu = (double )x / (double) y;
             Console.WriteLine("Suma:"+ (x + y));
             Console.WriteLine("Resta:" + (x - y));
             Console.WriteLine("Multiplicacion:" + (x * y));

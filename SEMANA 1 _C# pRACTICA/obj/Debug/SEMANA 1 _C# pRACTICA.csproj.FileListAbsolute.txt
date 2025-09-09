@@ -6,3 +6,11 @@ C:\Users\UPN\Desktop\Semana 3 Dannaé\FA -Practica\SEMANA 1 _C# pRACTICA\obj\Deb
 C:\Users\UPN\Desktop\Semana 3 Dannaé\FA -Practica\SEMANA 1 _C# pRACTICA\obj\Debug\SEMANA 1 _C# pRACTICA.exe
 C:\Users\UPN\Desktop\Semana 3 Dannaé\FA -Practica\SEMANA 1 _C# pRACTICA\obj\Debug\SEMANA 1 _C# pRACTICA.pdb
 C:\Users\UPN\Desktop\Semana 3 Dannaé\FA -Practica\SEMANA 1 _C# pRACTICA\obj\Debug\SEMANA 1 _C# pRACTICA.exe.config
+C:\Users\UPN\Desktop\fundamentos de algoritmos\FA_25-II-Practica-\SEMANA 1 _C# pRACTICA\bin\Debug\SEMANA 1 _C# pRACTICA.exe.config
+C:\Users\UPN\Desktop\fundamentos de algoritmos\FA_25-II-Practica-\SEMANA 1 _C# pRACTICA\bin\Debug\SEMANA 1 _C# pRACTICA.exe
+C:\Users\UPN\Desktop\fundamentos de algoritmos\FA_25-II-Practica-\SEMANA 1 _C# pRACTICA\bin\Debug\SEMANA 1 _C# pRACTICA.pdb
+C:\Users\UPN\Desktop\fundamentos de algoritmos\FA_25-II-Practica-\SEMANA 1 _C# pRACTICA\obj\Debug\SEMANA 1 _C# PRACTICA.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\fundamentos de algoritmos\FA_25-II-Practica-\SEMANA 1 _C# pRACTICA\obj\Debug\SEMANA 1 _C# pRACTICA.exe.config
+C:\Users\UPN\Desktop\fundamentos de algoritmos\FA_25-II-Practica-\SEMANA 1 _C# pRACTICA\obj\Debug\SEMANA 1 _C# PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\fundamentos de algoritmos\FA_25-II-Practica-\SEMANA 1 _C# pRACTICA\obj\Debug\SEMANA 1 _C# pRACTICA.exe
+C:\Users\UPN\Desktop\fundamentos de algoritmos\FA_25-II-Practica-\SEMANA 1 _C# pRACTICA\obj\Debug\SEMANA 1 _C# pRACTICA.pdb
